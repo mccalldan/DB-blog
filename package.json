@@ -1,0 +1,19 @@
+{
+  "name": "db-blog",
+  "version": "1.0.0",
+  "description": "blog with database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccalldan/DB-blog.git"
+  },
+  "author": "dan mccall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccalldan/DB-blog/issues"
+  },
+  "homepage": "https://github.com/mccalldan/DB-blog#readme"
+}
