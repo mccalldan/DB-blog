@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/mccalldan/DB-blog/issues"
   },
-  "homepage": "https://github.com/mccalldan/DB-blog#readme"
+  "homepage": "https://github.com/mccalldan/DB-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.3",
+    "nodemon": "^1.19.3"
+  }
 }
